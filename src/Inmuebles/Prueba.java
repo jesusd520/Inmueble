@@ -12,7 +12,5 @@ public class Prueba {
         Apartaestudio apartaestudio1 = new Apartaestudio(01, 50, "Cl 50 #65", 1, 1);
         apartaestudio1.calcularPrecio(Apartaestudio.valorArea);
         apartaestudio1.imprimir();
-        
-    }
-    
+    }    
 }
